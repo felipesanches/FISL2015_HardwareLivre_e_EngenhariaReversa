@@ -1,0 +1,17 @@
+00 retroprogramação
+00a MAME
+01 gunsmoke capcom 1985
+02 gunsmoke main system
+03 gunsmoke maincpu eeproms and ram
+04 capcom jamma
+05 color palette
+06 dip switches
+07 gunsmoke boards
+
+
+08 cps1_maincpu.svg
+09 EEPROM
+10 universal eeprom dumper.svg
+11 minipro_swlivre.svg
+12 
+
