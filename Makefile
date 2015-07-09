@@ -13,12 +13,12 @@ SLIDES = 00_INTRO.svg \
          09_Exemplo_de_driver.svg \
          10_MESS.svg \
          11_Replicator_1.svg \
-         12_Uzebox.svg \
-         13_Minicom_IV.svg \
-         14_But_is_it_free_software.svg \
-         15_The_paradox.svg \
-         16_Internet_Archive.svg \
-         17_thanks.svg
+         12_Uzebox.svg #\
+         #13_Minicom_IV.svg \
+         #14_But_is_it_free_software.svg \
+         #15_The_paradox.svg \
+         #16_Internet_Archive.svg \
+         #17_thanks.svg
 
 PDF = FISL_hw_livre_2015.pdf
 

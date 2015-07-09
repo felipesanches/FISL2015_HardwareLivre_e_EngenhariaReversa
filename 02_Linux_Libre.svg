@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r13740 custom"
+   viewBox="0 0 451.55557 338.66667"
+   sodipodi:docname="02_Linux_Libre.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7996">
+      <path
+         style="fill:#000080;fill-opacity:0.3121019;stroke:none"
+         d="m 0,30.992875 0,225.982825 451.55557,0 0,-225.982825 -451.55557,0 z"
+         id="path7998"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3464">
+      <rect
+         style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:4.08188963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:45;stroke-opacity:1"
+         id="rect3466"
+         width="428.54947"
+         height="236.59052"
+         x="23.818184"
+         y="18.299879" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4b93a9"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45833333"
+     inkscape:cx="896.95929"
+     inkscape:cy="575.01685"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1358"
+     inkscape:window-height="698"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,41.666668)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.61783441;stroke:none"
+       id="rect3370"
+       width="451.55557"
+       height="337.43515"
+       x="-1.4210855e-14"
+       y="-41.050896"
+       rx="7.560121e-06"
+       ry="7.5601224e-06" />
+    <rect
+       ry="7.5601215e-06"
+       rx="7.560121e-06"
+       y="-41.050896"
+       x="-1.4210855e-14"
+       height="50.492134"
+       width="451.55557"
+       id="rect4075"
+       style="fill:#cccccc;fill-opacity:0.61783441;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="225.75504"
+       y="-5.3350682"
+       id="text4069"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="225.75504"
+         y="-5.3350682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
+         id="tspan3358">linux libre</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:0.61783441;stroke:none"
+       id="rect3408"
+       width="451.55557"
+       height="50.492134"
+       x="-1.4210855e-14"
+       y="246.50787"
+       rx="7.560121e-06"
+       ry="7.5601215e-06" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3360"
+       y="275.45038"
+       x="225.73735"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000"
+         y="275.45038"
+         x="225.73735"
+         sodipodi:role="line"
+         id="tspan3368">Removendo blobs proprietários</tspan></text>
+    <image
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/FISL2015_HardwareLivre_e_EngenhariaReversa/imagens/linuxlibre.png"
+       xlink:href="imagens/linuxlibre.png"
+       width="426.59174"
+       height="232.32013"
+       preserveAspectRatio="none"
+       id="image3649"
+       x="12.481911"
+       y="11.326959" />
+  </g>
+</svg>
