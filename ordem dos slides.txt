@@ -1,17 +1,18 @@
-00 retroprogramação
-00a MAME
-01 gunsmoke capcom 1985
-02 gunsmoke main system
-03 gunsmoke maincpu eeproms and ram
-04 capcom jamma
-05 color palette
-06 dip switches
-07 gunsmoke boards
-
-
-08 cps1_maincpu.svg
-09 EEPROM
-10 universal eeprom dumper.svg
-11 minipro_swlivre.svg
-12 
-
+00 Título: Hardware Livre e Engenharia Reversa de Dispositivos Digitais
+01 Hardware Livre - Metamáquina
+02 Projeto Linux Libre -> blobs
+03 Datasheet
+04 Reverse Engeneering
+05 Sean Cross -> Amanhã às 14h ""
+06 Old vc New stuff
+07 O que é MAME ? <-------
+08 Carrier Air Wing
+09 Exemplo de driver
+10 O que é MESS ?
+11 Replicator 1 - open hardware
+12 Uzebox - open hardware
+13 Minicom IV - not open hardware
+14 But is it free software ?
+15 The paradox: An activist dealing with proprietary game blobs in order to deblob the kernel
+16 Internet Archive
+17 Thanks & Contacts
