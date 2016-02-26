@@ -14,7 +14,7 @@
    height="1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
    sodipodi:docname="04_Reverse_Engeneering.svg">
   <defs
@@ -48,7 +48,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.44833333"
-     inkscape:cx="710.78067"
+     inkscape:cx="621.56134"
      inkscape:cy="658.63885"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,13 +107,13 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
          id="tspan3358">Engenharia reversa</tspan></text>
     <image
-       sodipodi:absref="/tmp/inkscape-clipboard-import"
-       y="33.413513"
-       x="1.1718984"
-       id="image3525"
-       xlink:href="file:///tmp/inkscape-clipboard-import"
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/FISL2015_HardwareLivre_e_EngenhariaReversa/imagens/ic_decap.jpg"
+       xlink:href="imagens/ic_decap.jpg"
+       width="424.03207"
+       height="213.59236"
        preserveAspectRatio="none"
-       height="226.27579"
-       width="449.21176" />
+       id="image141"
+       x="13.761745"
+       y="42.902699" />
   </g>
 </svg>
