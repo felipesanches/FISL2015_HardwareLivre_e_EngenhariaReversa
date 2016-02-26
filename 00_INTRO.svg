@@ -13,7 +13,7 @@
    height="1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
    sodipodi:docname="00_INTRO.svg">
   <defs
@@ -36,8 +36,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45833333"
-     inkscape:cx="894.90569"
-     inkscape:cy="529.76754"
+     inkscape:cx="807.63296"
+     inkscape:cy="617.04027"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,7 +93,7 @@
          id="tspan4071"
          x="225.75504"
          y="-5.3350682"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle">Hardware Livre &amp; Engenharia Reversa</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle">Engenharia Reversa &amp; emulação</tspan><tspan
          sodipodi:role="line"
          x="225.75504"
          y="24.245682"

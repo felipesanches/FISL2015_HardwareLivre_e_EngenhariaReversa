@@ -14,7 +14,7 @@
    height="1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
    sodipodi:docname="05_Sean_Cross.svg">
   <defs
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,7 +105,7 @@
          x="225.55978"
          y="-5.3350682"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
-         id="tspan3358">Palestra - Sean Cross</tspan></text>
+         id="tspan3358">novena - Sean Cross</tspan></text>
     <rect
        style="fill:#cccccc;fill-opacity:0.61783441;stroke:none"
        id="rect3408"
@@ -126,7 +126,7 @@
          y="275.45038"
          x="226.5173"
          sodipodi:role="line"
-         id="tspan3368">FISL - Amanhã - 14h</tspan></text>
+         id="tspan3368">Palestra no FISL de 2015</tspan></text>
     <image
        sodipodi:absref="/home/felipe/devel/github_felipesanches/FISL2015_HardwareLivre_e_EngenhariaReversa/imagens/novena.jpg"
        xlink:href="imagens/novena.jpg"
